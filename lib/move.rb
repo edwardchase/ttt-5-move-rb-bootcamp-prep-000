@@ -13,6 +13,6 @@ end
   end 
   
 def move(board,index,char = 'X')
-  board[pos] = char;
+  board[index] = char;
   return board
 end
