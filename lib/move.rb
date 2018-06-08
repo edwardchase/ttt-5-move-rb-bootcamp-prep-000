@@ -11,6 +11,6 @@ def move(board,index,char = 'X')
   def input_to_integer()
     pos = input.to_i -1;
   end 
-  board[pos] = char
+  board[pos] = char;
   return board
 end
