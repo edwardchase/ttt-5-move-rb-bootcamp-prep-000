@@ -10,3 +10,4 @@ end
 def move(input)
   pos = input - 1;
   board[pos] = 
+end
