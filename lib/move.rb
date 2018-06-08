@@ -10,7 +10,5 @@ end
 def move(input)
   def input_to_integer()
     position = input.to_i -1;
-  end
-  pos = input - 1;
-  board[pos] 
+  end  pos = input - 1;
 end
