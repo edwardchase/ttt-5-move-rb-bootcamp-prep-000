@@ -4,7 +4,7 @@ require_relative '../lib/move.rb'
 
 # Code your CLI Here
 puts "Welcome to Tic Tac Toe!"
-board = 
+board = ['','','','','','','','',''];
 puts "Please enter your name so that we can greet you more personally:"
 name = gets.strip
 greeting(name)
