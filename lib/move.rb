@@ -9,5 +9,5 @@ end
 # code your input_to_index and move method here!
 def move(input)
   pos = input - 1;
-  board[pos] = 
+  board[pos] 
 end
